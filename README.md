@@ -1,5 +1,3 @@
-# Crop Predictor
-
 # Crop Yield Predictor
 
 This repository contains an end-to-end workflow for forecasting country-level crop yields using FAO data. It includes exploratory data analysis (EDA), model training, and an interactive Streamlit app for inference.
